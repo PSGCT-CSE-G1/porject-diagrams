@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:07:24.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="GSDqj-ToDuDegx0Ub24i" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:08:34.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NaWJBzGQNMZ4WbD7YJFg" version="17.4.6" type="github">
   <diagram id="V_pP0rIs9RaEEoC-2vQr" name="Page-1">
     <mxGraphModel dx="1597" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,24 @@
         </mxCell>
         <mxCell id="BCO1HJiDXfsgJyuwi6-C-24" value="Hosted Environment in One Domain (Eg. https://egov.psgtech.ac.in)" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="710" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BCO1HJiDXfsgJyuwi6-C-24" target="BCO1HJiDXfsgJyuwi6-C-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="520" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.039;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BCO1HJiDXfsgJyuwi6-C-14" target="BCO1HJiDXfsgJyuwi6-C-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="220" as="sourcePoint" />
+            <mxPoint x="690" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.002;exitY=0.571;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BCO1HJiDXfsgJyuwi6-C-14" target="BCO1HJiDXfsgJyuwi6-C-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="587.7999999999997" y="226.5999999999999" as="sourcePoint" />
+            <mxPoint x="690" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
