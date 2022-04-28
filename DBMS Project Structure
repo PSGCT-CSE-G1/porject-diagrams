@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T10:08:34.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NaWJBzGQNMZ4WbD7YJFg" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T10:12:08.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mzz2Ie778TggWZTRlmW5" version="17.4.6" type="github">
   <diagram id="V_pP0rIs9RaEEoC-2vQr" name="Page-1">
-    <mxGraphModel dx="1597" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,6 +80,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="587.7999999999997" y="226.5999999999999" as="sourcePoint" />
             <mxPoint x="690" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCO1HJiDXfsgJyuwi6-C-10" target="BCO1HJiDXfsgJyuwi6-C-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="220" as="sourcePoint" />
+            <mxPoint x="690" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BCO1HJiDXfsgJyuwi6-C-10" target="BCO1HJiDXfsgJyuwi6-C-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="440" as="sourcePoint" />
+            <mxPoint x="690" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-31" value="" style="endArrow=none;html=1;rounded=0;startSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="430" as="sourcePoint" />
+            <mxPoint x="680" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-32" value="Remote Database&lt;br&gt;&lt;br&gt;(providing a URL for access)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="220" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="BCO1HJiDXfsgJyuwi6-C-33" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;startSize=6;" edge="1" parent="1" source="BCO1HJiDXfsgJyuwi6-C-32">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="210" y="220" as="sourcePoint" />
+            <mxPoint x="160" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
